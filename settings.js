@@ -71,7 +71,7 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "18767077170",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "~Ryan🫩",
+OWNER_NAME: process.env.OWNER_NAME || "Ryan🫩",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Ryan Tech Hub*",
