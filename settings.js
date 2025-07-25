@@ -6,11 +6,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "lucky~ic9AERrK#DL37fTkP3p1WkUKotz7kEDNvLA6J1rTMiT_hmAn5TKI",
+SESSION_ID: process.env.SESSION_ID || "lucky~LA8jQaJY#eH4GmSEAiNgUZBUONjpRS29_km6m7x269GVwTO3DLsA",
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "WHITE SUMARI",
+BOT_NAME: process.env.BOT_NAME || "WHITE-SUMARI",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -106,7 +106,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Ryan🫩",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "18767077170",
+     DEV: process.env.DEV || "‪+256789966218‬"
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
