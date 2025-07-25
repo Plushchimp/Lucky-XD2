@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "lucky~ic9AERrK#DL37fTkP3p1WkUKotz7kEDNvLA
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "LUCKY-XD",
+BOT_NAME: process.env.BOT_NAME || "WHITE SUMARI",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -46,10 +46,10 @@ LINK_WHITELIST: "youtube.com,github.com",
       MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 
-     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/4itzeu.jpg",
+     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/zmnkm8.jpeg",
 // add custom menu and mention reply image url
 
-       ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/4itzeu.jpg",
+       ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/zmnkm8.jpeg",
 // add img for alive msg
 
         LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦LUCKY-XD✦ ғʀᴏᴍ Lucky Tech Hub ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Tomilucky218/Lucky-XD2",
@@ -71,10 +71,10 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "18767077170",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "Ryan Smith",
+OWNER_NAME: process.env.OWNER_NAME || "~Ryan🫩",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
+              DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Ryan Tech Hub*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -106,7 +106,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Ryan Smith",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "256789966218",
+     DEV: process.env.DEV || "18767077170",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
